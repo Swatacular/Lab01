@@ -34,9 +34,9 @@ namespace Lab01
                 //////////// Processing //////////////
 
                 //// try/catch converting strings to ints ////
-                roomLength = ConvertStringToInt(inputLength);
-                roomWidth = ConvertStringToInt(inputWidth);
-                roomHeight = ConvertStringToInt(inputHeight);
+                roomLength = ConvertStringToDouble(inputLength);
+                roomWidth = ConvertStringToDouble(inputWidth);
+                roomHeight = ConvertStringToDouble(inputHeight);
 
                 //////////// Output and Loop ////////////////
 
@@ -56,7 +56,7 @@ namespace Lab01
         }
 
         //try and catch for input
-        public static double ConvertStringToInt(string input)
+        public static double ConvertStringToDouble(string input)
         {
             double convertedString;
             try
