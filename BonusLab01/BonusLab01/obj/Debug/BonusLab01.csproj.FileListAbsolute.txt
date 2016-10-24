@@ -1,0 +1,6 @@
+C:\Users\Thomas\Desktop\Programming\Version-Control\BonusLab01\BonusLab01\bin\Debug\BonusLab01.exe.config
+C:\Users\Thomas\Desktop\Programming\Version-Control\BonusLab01\BonusLab01\bin\Debug\BonusLab01.exe
+C:\Users\Thomas\Desktop\Programming\Version-Control\BonusLab01\BonusLab01\bin\Debug\BonusLab01.pdb
+C:\Users\Thomas\Desktop\Programming\Version-Control\BonusLab01\BonusLab01\obj\Debug\BonusLab01.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programming\Version-Control\BonusLab01\BonusLab01\obj\Debug\BonusLab01.exe
+C:\Users\Thomas\Desktop\Programming\Version-Control\BonusLab01\BonusLab01\obj\Debug\BonusLab01.pdb
