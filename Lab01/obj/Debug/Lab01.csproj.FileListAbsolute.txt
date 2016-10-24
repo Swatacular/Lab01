@@ -1,1 +1,6 @@
 C:\Users\Thomas\Desktop\Programming\Version-Control\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab01\Lab01\obj\Debug\Lab01.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab01\Lab01\obj\Debug\Lab01.pdb
